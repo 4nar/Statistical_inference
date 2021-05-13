@@ -29,5 +29,5 @@ Statistical research project:
 Different statistical studyies:
 * Observational research - observe the sample without changing conditions.
 * Controlled research - examine eefect of one variable to another by controlling existing conditions. Example: Dividing patients into groups who are treated with placebo and medicine. 
-* Simulation - use mathematical modeling to mimic natural process. Example: spread of virus is studyied using mathematical model.
+* Simulation - use mathematical modeling to mimic natural process. Example: spread of virus is studyied using mathematical mode
 
